@@ -1,0 +1,2 @@
+This was a weighted random number generator, designed to allow a person to get random values that are weighted more heavily towards certain parts of the spectrum.  It has been generalized to fit under a function of the user's choosing, such as linear (1 is twice as likely as 0.5 which is twice as likely as 0), to quadratic (heavy bias towards 0) to 4th degree (heavier bias towards 0), or any other function.  
+Developed in collaboration with my friend, his implementation can be seen here: https://github.com/spyrosoft/weighted-random-numbers
